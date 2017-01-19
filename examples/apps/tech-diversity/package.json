@@ -1,0 +1,15 @@
+{
+	"name": "diversityfacts",
+	"version": "1.0.0",
+	"description": "Share facts about diversity in the tech industry",
+	"main": "index.js",
+	"scripts": {
+		"start": "node examples/apps/tech-diversity/index.js"
+	},
+	"author": "caitlin collins",
+	"license": "ISC",
+	"dependencies": {
+		"alexa-app": "^2.3.4",
+		"lodash": "^4.17.4"
+	}
+}
